@@ -1,6 +1,6 @@
 package org.antdev.netty_example.utils;
 
-public enum MQTTKafkaMapperType {
+public enum MqttKafkaMapperType {
     TOPIC,
     PAYLOAD
 }
